@@ -20,7 +20,7 @@ const whatsappMensaje = "Hola, vi su menú en San Joy Lao";
 /* ===== DATOS DEL MENÚ ===== */
 const data = {
   "Carnes": [
-    { nombre: "Carne de Res Saltada en Salsa de Ostión o Tausí", precio: "S/48", img: "carne-ostion.jpg", descripcion: "Carne, arroz, fideos" },
+    { nombre: "Carne de Res Saltada en Salsa de Ostión o Tausí", precio: "S/48", img: "carne-1.jpg", descripcion: "Carne, arroz, fideos" },
     { nombre: "Carne de Res con Frijolito Chino", precio: "S/48", img: "carne-frijol.jpg", descripcion: "Carne, arroz, fideos" },
     { nombre: "Carne de Res con Ostión a la Plancha", precio: "S/53", img: "carne-ostion-plancha.jpg", descripcion: "Carne, arroz, fideos" },
     { nombre: "Carne de Res con Tausí a la Plancha", precio: "S/53", img: "carne-tausi.jpg", descripcion: "Carne, arroz, fideos" }
