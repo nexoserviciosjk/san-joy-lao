@@ -19,7 +19,7 @@ header {
   padding: 20px;
   min-height: 70px; /* ALTURA DEL LOGO O FONDO */
   background-image: url('logo-logo.jpg');
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   border-bottom: 3px solid #d4af37;
