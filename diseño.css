@@ -17,7 +17,7 @@ body {
 header {
   text-align: center;
   padding: 20px;
-  background-image: url('logo-caballo.jpg');
+  background-image: url('san-joy-lao-logo.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -32,8 +32,13 @@ header {
 header h1 {
   font-family: 'Karate', serif;
   margin: 0;
-  color: #f5e6b3;
+  color: #d4af37;
   letter-spacing: 2px;
+}
+
+/* ===== CONTROL DE VISIBILIDAD DEL TÍTULO ===== */
+.oculto {
+  display: none;
 }
 
 /* ===== BOTONES SECCIONES ===== */
@@ -86,7 +91,7 @@ header h1 {
 
 .plato-detalle p {
   margin: 0 0 20px 0;
-  font-size: 1.1rem;
+  font-size: 1rem; /* este es tamaño de texto en detalle del plato */
   color: #fff;
   text-align: left;
   line-height: 1.6;
@@ -136,7 +141,7 @@ header h1 {
   border-radius: 15px;
   border: 2px solid #d4af37;
   opacity: 0;
-  transition: opacity 0.8s ease-in-out;
+  transition: opacity 2s ease-in-out;
 }
 
 .publicidad-img img.visible {
