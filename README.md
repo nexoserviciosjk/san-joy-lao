@@ -3,7 +3,7 @@
 Página web de restaurante de comida china.
 
 ## Ver página web
-[Ver aquí](https://nexoserviciosjk.github.io/san-joy-lao/carta.html)
+[Ver aquí](https://anddy-qr.github.io/san-joy-lao/carta.html)
 
 ## Contenido
 - Carta de platos
